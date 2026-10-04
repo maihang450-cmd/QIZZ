@@ -1,0 +1,6 @@
+{
+  "name": "Quiz Công Nghệ 10 - Bài 3: Công Nghệ Phổ Biến",
+  "description": "Ứng dụng thi trắc nghiệm trò chơi Quizizz môn Công nghệ 10 (Bài 3: Công nghệ phổ biến). Ngân hàng 100 câu hỏi (40 Biết, 30 Hiểu, 30 Vận dụng), tự động tạo đề thi chuẩn ma trận 4-3-3, phân quyền Học sinh và Giáo viên Mai Hằng.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
